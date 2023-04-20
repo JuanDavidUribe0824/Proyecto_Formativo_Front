@@ -1,0 +1,46 @@
+.f-container{
+    justify-content: space-between;
+}
+
+.f-left{
+    gap: 1rem;
+}
+
+.logo-two{
+    position: relative;
+    z-index: 1;
+}
+.logo-two>h2{
+    font-weight: 600;
+    font-size: 2.3em;
+    line-height: 5rem;
+    font-family: "Homer Simpson UI";
+
+}
+
+.circle-orange{
+    height: 2rem;
+    width: 2rem;
+    background: var(--circle-orange);
+    border-radius: 99px;
+    position: absolute;
+    right: -8%;
+    top: -1%;
+    z-index: -1;
+}
+
+.f-menu{
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .f-container{
+       justify-content: center;
+    }
+    .f-container>div{
+        align-items: center!important;
+        text-align: center;
+    }
+}

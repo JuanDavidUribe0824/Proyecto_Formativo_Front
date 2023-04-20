@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Metalistería",
+    "price": "47,043",
+    "detail": "Se desarrollan trabajos relacionados con láminas, tubería, ensamble y soldadura.",
+    "image": "./services/img-one.avif"
+  },
+  {
+    "name": "Manejo De Inventario",
+    "price": "66,353",
+    "detail": "Proceso clave en la gestión estratégica de la organización en cualquier tipo de emprendimiento.",
+    "image": "./services/img-two.webp"
+  },
+  {
+    "name": "Carpintería",
+    "price": "35,853",
+    "detail": "Elaboración, montaje, instalación y reparación de elementos de madera, tanto piezas individuales (mobiliario) como componentes fijos o móviles para obras (puertas, ventanas, marcos, etc.).",
+    "image": "./services/img-three.jpeg"
+  },
+  {
+    "name": "Jardinería",
+    "price": "47,043",
+    "detail": "Limpieza de maceteros, limpieza de hojas, control de riego, pulverizaciones foliares, corte de césped y podas sanitarias y de formación.",
+    "image": "./services/img-four.jpg"
+  },
+  {
+    "name": "Electricista",
+    "price": "66,353",
+    "detail": "Labores de instalación, reparación y mantenimiento de cualquier sistema eléctrico (cableado, maquinarias, dispositivos).",
+    "image": "./services/img-five.jpeg"
+  },
+  {
+    "name": "Pintor De Exteriores",
+    "price": "35,853",
+    "detail": "Prepar, proteger y decorar superficies interiores y exteriores, tales como madera, albañilería, mampostería, áreas de yeso o blanquecinas, cemento, estuco y metal.",
+    "image": "./services/img-six.jpg"
+  }
+]
